@@ -1,0 +1,24 @@
+
+/* The secondary row for each show, contains time, admission, etc */
+tr.gigpress-info td {
+	font-size: 90%;
+	color: #ccc;
+	border-bottom: 1px solid #CCC;
+}
+tr.gigpress-row td{
+   border-bottom: 1px dotted #333;
+}
+.gigpress-table {
+    width: 100%;
+    border: none;
+    border-collapse: collapse;
+    border-top: none;
+    margin: 0.5em 0 1em 0;
+}
+th.gigpress-heading {
+    background-color: #000;
+    border-bottom: 1px solid #CCC;
+}
+tr.gigpress-tour td {
+    background-color: #000;
+}
